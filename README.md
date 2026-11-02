@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # SAHAYAK — सहायक
 
 **BenefitBridge – Intelligent Government Scheme Matching System**
@@ -364,4 +364,4 @@ SAHAYAK is an informational prototype developed to simplify government scheme di
   Your Benefits. Your Opportunities.<br/><br/>
   <strong>TEAM ZERRODAY 🇮🇳</strong>
 </p>
->>>>>>> 1f02b5b0b2fe521a2484463dc066535495ea91b2
+
